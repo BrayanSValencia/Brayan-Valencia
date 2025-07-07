@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, AI**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: brayans.valenciav.05@gmail.com </h3>
 <p align="left">
 </p>
 
