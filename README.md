@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Brayan Valencia</h1>
-<h3 align="center">A passionate developer from Colombia with a strong focus on backend development and artificial intelligence</h3>
+<h3 align="center">I'm a backend developer from 🇨🇴 Colombia, with a strong interest in building robust, scalable systems and applying artificial intelligence to solve real-world problems.</h3>
+
+Here’s a brief overview of my current focus areas:
+
+🛠️ Developing backend solutions with  REST APIs
+
+🤖 Exploring AI and machine learning applications
+
+🧩 Applying object-oriented design and clean architecture principles
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayansvalencia&label=Profile%20views&color=0e75b6&style=flat" alt="brayansvalencia" /> </p>
 
-- 🌱 I’m currently learning **Django, AI**
+- 🌱 I’m currently learning **AI**
 
 <h3 align="left">Connect with me: brayans.valenciav.05@gmail.com </h3>
 <p align="left">
@@ -11,6 +21,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com/?nc2=h_home&refid=90bc4346-f6a5-4430-b543-83e255b54666" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -22,6 +35,9 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="80" height="80"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
