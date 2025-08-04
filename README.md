@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan Valencia</h1>
-<h3 align="center">I'm a backend developer from 🇨🇴 Colombia, with a strong interest in building robust, scalable systems and applying artificial intelligence to solve real-world problems.</h3>
+<h3 align="center">I'm a backend developer from Colombia, with a strong interest in building robust, scalable systems and applying artificial intelligence to solve real-world problems.</h3>
 
 Here’s a brief overview of my current focus areas:
 
