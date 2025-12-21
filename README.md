@@ -24,6 +24,9 @@ Here’s a brief overview of my current focus areas:
   <a href="https://aws.amazon.com/?nc2=h_home&refid=90bc4346-f6a5-4430-b543-83e255b54666" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
+    <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_Cj0KCQiAr5nKBhCpARIsACa_NiMswSG9N3l6-kLX7k6dI45sJs1LXi9viFDv8y3YNgD-umAyws9g9fEaApw5EALw_wcB_k_&OCID=AIDcmm3804ythc_SEM__k_Cj0KCQiAr5nKBhCpARIsACa_NiMswSG9N3l6-kLX7k6dI45sJs1LXi9viFDv8y3YNgD-umAyws9g9fEaApw5EALw_wcB_k_&gad_campaignid=2070036373" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
