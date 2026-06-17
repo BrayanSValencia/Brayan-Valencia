@@ -99,8 +99,3 @@ My experience includes LLM evaluation, prompt engineering, Retrieval-Augmented G
 </p>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayansvalencia&show_icons=true&locale=en&layout=compact" alt="brayansvalencia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayansvalencia&show_icons=true&locale=en" alt="brayansvalencia" /></p>
-
